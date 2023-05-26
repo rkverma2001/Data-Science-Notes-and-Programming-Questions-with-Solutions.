@@ -1,0 +1,61 @@
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is info lof
+INFO:root:this is info log
+WARNING:root:this is my warning
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is info log
+WARNING:root:this is my warning
+INFO:root:this is my info log
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logginf 1
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logginf 2
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logginf 3
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logginf 4
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logginf [4, 5, 6]
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logginf ritesh
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logginf kumar
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging 1
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging 2
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging 3
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging 4
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging [4, 5, 6]
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging ritesh
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging kumar
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging 1
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging 2
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging 3
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging 4
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging [4, 5, 6]
+INFO:root:logging my j 4 ans i is [4, 5, 6]
+INFO:root:logging my j 5 ans i is [4, 5, 6]
+INFO:root:logging my j 6 ans i is [4, 5, 6]
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging ritesh
+INFO:root:this is the start of my firdt for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+INFO:root:this is the value of i am logging kumar
+INFO:root:this is my final result with all int {l1}, with all
